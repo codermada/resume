@@ -1,4 +1,5 @@
 # TOLOTRA RAKOTOMALALA ANDRIAMAHEFA
+### web developer
 
 ![Profile Photo](./toloandr.jpeg)
 
@@ -16,14 +17,14 @@
 ## Technical Skills
 
 ### Frontend
-HTML, JavaScript, CSS, Bootstrap, Tailwind CSS, React.js, Node.js, Next.js
+HTML, JavaScript, CSS, Bootstrap, Tailwind CSS, React.js, Next.js, Jinja
 
 ### Backend
-Flask, FastAPI, NestJS, Express.js
+Flask, FastAPI, Node.js, NestJS, Express.js
 
 ### Programming Languages
 - **Python** (Flask, FastAPI)
-- **JavaScript** (React.js, Next.js, NestJS)
+- **JavaScript** (Node.js, React.js, Next.js, NestJS, Express.js)
 - **Bash** scripting
 - **C**
 - **C++ 98**
@@ -32,8 +33,8 @@ Flask, FastAPI, NestJS, Express.js
 - **AI-assisted development:** VS Code with GitHub Copilot, DeepSeek, ChatGPT
 - **Containerization:** Docker
 
-### Soft Skills
-- Team collaboration (GitHub projects)
+# Soft Skills
+- Team collaboration (GitHub projects, Jira)
 
 ## Education
 - **Software Engineering** — 42 Antananarivo
