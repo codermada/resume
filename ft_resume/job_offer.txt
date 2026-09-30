@@ -1,0 +1,18 @@
+Front-End / Web Developer - Pixelforge Studio
+About the role: Pixelforge Studio designs web experiences for a wide range of clients.
+We are looking for a web developer who cares about both code quality and user experience.
+Key responsibilities:
+• Build responsive, accessible user interfaces.
+• Turn designs and specifications into working web pages.
+• Integrate AI-assisted features (e.g. chat assistants or recommendation widgets)
+when relevant.
+• Ensure cross-browser and cross-device compatibility.
+• Collaborate with designers and backend developers.
+Profile sought:
+• Knowledge of HTML, CSS, and JavaScript.
+• Familiarity with at least one framework or library is a plus.
+• Comfort using AI-powered coding assistants in your workflow is appreciated.
+• An eye for detail, layout, and usability.
+• Curiosity and the ability to learn new tools quickly.
+Practical details: permanent or internship position; on-site or remote. Junior profiles
+are welcome.
